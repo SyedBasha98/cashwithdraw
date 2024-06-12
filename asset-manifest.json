@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github.io/cashwithdraw/static/css/main.c53ba02b.css",
-    "main.js": "/github.io/cashwithdraw/static/js/main.d0acab09.js",
-    "static/js/453.0481c951.chunk.js": "/github.io/cashwithdraw/static/js/453.0481c951.chunk.js",
-    "index.html": "/github.io/cashwithdraw/index.html",
-    "main.c53ba02b.css.map": "/github.io/cashwithdraw/static/css/main.c53ba02b.css.map",
-    "main.d0acab09.js.map": "/github.io/cashwithdraw/static/js/main.d0acab09.js.map",
-    "453.0481c951.chunk.js.map": "/github.io/cashwithdraw/static/js/453.0481c951.chunk.js.map"
+    "main.css": "/cashwithdraw/static/css/main.c53ba02b.css",
+    "main.js": "/cashwithdraw/static/js/main.08754a37.js",
+    "static/js/453.0481c951.chunk.js": "/cashwithdraw/static/js/453.0481c951.chunk.js",
+    "index.html": "/cashwithdraw/index.html",
+    "main.c53ba02b.css.map": "/cashwithdraw/static/css/main.c53ba02b.css.map",
+    "main.08754a37.js.map": "/cashwithdraw/static/js/main.08754a37.js.map",
+    "453.0481c951.chunk.js.map": "/cashwithdraw/static/js/453.0481c951.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c53ba02b.css",
-    "static/js/main.d0acab09.js"
+    "static/js/main.08754a37.js"
   ]
 }
